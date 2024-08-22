@@ -1,6 +1,6 @@
 ## Overview
 
-This project involves implementing key graph algorithms on directed graphs (digraphs), specifically Prim's and Dijkstra's algorithms. This repository includes a Makefile and various compilation and testing utilities to ensure robustness and correctness of the implementation.
+This project involves implementing key graph algorithms on directed graphs (digraphs), specifically Prim's and Dijkstra's algorithms in C++. This repository includes a Makefile and various compilation and testing utilities to ensure robustness and correctness of the implementation.
 
 ## Code
 
