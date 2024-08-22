@@ -21,7 +21,7 @@ Use the following make commands:
 * make compile_test: Runs a compile test.
 
 ## Project Features
-* Directed Graph Implementation. Implements a data structure to store a directed graph with functionalities to add/remove vertices and edges, and check graph properties like vertex existence and edge weight.
+* Directed Graph Implementation. Implements a data structure to store a directed graph with functionalities to add/remove vertices and edges, and checks graph properties like vertex existence and edge weight.
 * Prim’s Algorithm. Extends the Graph class to include Prim’s algorithm to compute a minimum spanning tree starting from a specified vertex.
 * Dijkstra’s Algorithm. Further extends the Graph class to implement Dijkstra’s algorithm for computing the shortest paths from a specified source vertex to all other vertices.
 
